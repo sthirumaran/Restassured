@@ -99,6 +99,20 @@
     <version>2.21.0</version>
     <scope>test</scope>
 </dependency>
+<dependency>
+    <groupId>io.rest-assured</groupId>
+    <artifactId>rest-assured</artifactId>
+    <version>3.0.0</version>
+    <scope>test</scope>
+</dependency>
+ <!-- https://mvnrepository.com/artifact/com.jayway.restassured/rest-assured -->
+<dependency>
+    <groupId>com.jayway.restassured</groupId>
+    <artifactId>rest-assured</artifactId>
+    <version>2.9.0</version>
+    <scope>test</scope>
+</dependency>
+  
     <dependency>
     <groupId>com.github.tomakehurst</groupId>
     <artifactId>wiremock-standalone</artifactId>
